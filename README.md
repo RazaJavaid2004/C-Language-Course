@@ -20,8 +20,13 @@ The files are organized into clear directories to make it easy to navigate the d
 Projects
 This section highlights the main projects I completed.
 ● Scientific Calculator
-● Guess The Number
+● Number Guessing Game
 ● Bank Managment System
+● Learning Management System
+● Hangman
+● To Do List
+● Student Record System
+● Tic Tac Toe
 
 Key Learning Outcomes
 Throughout this course, I developed a strong foundation in core C programming principles, including:
