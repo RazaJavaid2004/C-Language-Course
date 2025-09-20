@@ -41,7 +41,7 @@ Throughout this course, I developed a strong foundation in core C programming pr
 How to Run the Code
 To compile and run any .c file in this repository, you'll need a C compiler like GCC.
 1.Clone the repository:
-git clone https://github.com/[Your_Username]/[Your_Repo_Name].git
+git clone https://github.com/RazaJavaid2004/C-Language-Course.git
 
 2.Navigate to the file's directory:
 cd [directory_name]
