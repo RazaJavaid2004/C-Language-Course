@@ -8,10 +8,10 @@ This repository documents all code and materials from the C Language course comp
 
 The content is organized into modular directories for easy navigation:
 
-- `practice-codes/` — Small code snippets for personal experimentation and concept reinforcement  
-- `projects/` — Larger, self-contained projects, each in its own subfolder  
-- `labs/` — Weekly lab exercises and solutions  
-- `assignments/` — Graded coursework submitted during the semester  
+- `practice-codes/` - Small code snippets for personal experimentation and concept reinforcement  
+- `projects/` - Larger, self-contained projects, each in its own subfolder  
+- `labs/` - Weekly lab exercises and solutions  
+- `assignments/` - Graded coursework submitted during the semester  
 
 ---
 
